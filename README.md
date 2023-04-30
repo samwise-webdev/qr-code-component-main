@@ -21,7 +21,7 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/samwise-webdev/qr-code-component-main)
+- Solution URL: https://genuine-fairy-1b2103.netlify.app/
 
 ## My process
 
